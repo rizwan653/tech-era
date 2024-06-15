@@ -1,0 +1,16 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: roboto;
+}
+
+.image {
+  width: 500px;
+}
+
+.para {
+  color: #64748b;
+}

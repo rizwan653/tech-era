@@ -1,0 +1,21 @@
+.each-list {
+  display: flex;
+  align-items: center;
+  width: 230px;
+  margin-bottom: 20px;
+}
+
+.name {
+  font-weight: bold;
+  font-family: roboto;
+  margin-left: 20px;
+  color: black;
+}
+
+.courses-logo {
+  width: 80px;
+}
+
+.link {
+  text-decoration: none;
+}
